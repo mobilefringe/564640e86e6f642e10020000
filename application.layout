@@ -29,16 +29,18 @@
     <body id="page-top" class="main_container" >
         {{yield}}
         <div class="row">
-            <div class="footer_div col-md-12">
-                <div class="col-md-6">
-                    <p>
-                        © 2015 Shop Central. All rights reserved.
-                        <a href="#">Privacy Policy</a>
-                        <a href="#">Terms & Conditions</a>
-                    </p>
-                </div>
-                <div class="col-md-6">
-                    
+            <div class="col-md-12">
+                <div class="footer_div">
+                    <div class="col-md-6">
+                        <p>
+                            © 2015 Shop Central. All rights reserved.
+                            <a href="#">Privacy Policy</a>
+                            <a href="#">Terms & Conditions</a>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        
+                    </div>
                 </div>
             </div>
         </div>
