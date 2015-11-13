@@ -97,9 +97,8 @@
     border-radius: 4px;
     font-family: HelveticaNeue;
     font-size: 12px;
-    line-height: 0px;
+    line-height: 0;
 }
-
 .confirm_label{
     margin-top:12px;
     font-size: 14px;
