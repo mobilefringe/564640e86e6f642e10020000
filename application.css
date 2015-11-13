@@ -21,8 +21,6 @@
     max-width:1170px;
     border-top:5px solid #19DDC5;
     margin:0 auto;
-    min-height: 100%;
-    position: relative;
 }
 
 .main_content{
@@ -168,13 +166,7 @@
 }
 
 
-#footer {
-    width: 100%;
-    height: 100px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-}
+
 
 
 
