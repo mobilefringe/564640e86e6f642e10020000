@@ -31,7 +31,7 @@
             <div id="content">
                 {{yield}}
             </div>
-            <div class="row" id="footer">
+            <div class="row navbar navbar-fixed-bottom" id="footer">
                 <div class="col-md-12">
                     <div class="footer_div">
                         <div class="col-md-6">
