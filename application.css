@@ -101,7 +101,7 @@
     line-height: 0;
 }
 
-.newsletter_submit_btn:hover, newsletter_submit_btn:focus{
+.newsletter_submit_btn:hover, .newsletter_submit_btn:focus{
     background: #17BCA8;
     outline:0;
 }
