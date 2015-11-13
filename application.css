@@ -24,5 +24,6 @@
 }
 
 .main_content{
-    margin:32px 0;
+    margin-top:32px;
+    margin-bottom:32px;
 }
