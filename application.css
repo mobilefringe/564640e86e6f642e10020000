@@ -36,3 +36,9 @@
 .sc_img{
     width:100%;
 }
+
+.main_caption{
+    font-family:sen;
+    font-size:20px;
+    margin-bottom:30px;
+}
