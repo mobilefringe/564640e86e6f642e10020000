@@ -21,6 +21,7 @@
     max-width:1170px;
     border-top:5px solid #19DDC5;
     margin:0 auto;
+    min-height:100%;
 }
 
 .main_content{
