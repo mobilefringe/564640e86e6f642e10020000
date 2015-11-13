@@ -17,6 +17,7 @@
             <h4 class="newsletter_header">Get On The List</h4>
             <p class="newsletter_desc">Join us to stay in the know with your favourite shopping centers.</p>
             <input type="text" class="newsletter_email" id="newsletter_email" />
+            <input type="submit" value="SUBMIT" class="newsletter_submit_btn" id="newsletter_submit" /> 
         </div>
     </div>
     <div class="col-md-7 text-center">
