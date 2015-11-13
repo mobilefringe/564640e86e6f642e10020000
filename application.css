@@ -16,21 +16,11 @@
 }
 
 
-html{
-    height:100%;
-}
-
-body{
-    min-height:100%;
-}
-
 .main_container{
     font-family: sen;
     max-width:1170px;
     border-top:5px solid #19DDC5;
     margin:0 auto;
-    min-height:100%;
-    position:relative;
 }
 
 .main_content{
@@ -174,14 +164,6 @@ body{
 .footer_div p{
     margin:0;
 }
-
-#footer{
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-}
-
-
 
 
 
