@@ -157,6 +157,10 @@
     padding:10px;
 }
 
+.footer_div a{
+    color:#fff;
+}
+
 .footer_div p{
     margin:0;
 }
