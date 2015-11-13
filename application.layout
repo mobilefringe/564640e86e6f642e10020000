@@ -28,7 +28,9 @@
     </head>
     <body id="page-top"  >
         <div class="main_container">
-            {{yield}}
+            <div id="content">
+                {{yield}}
+            </div>
             <div class="row" id="footer">
                 <div class="col-md-12">
                     <div class="footer_div">
