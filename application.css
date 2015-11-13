@@ -114,7 +114,7 @@
     position: absolute;   
 }
 
-.checkbox-custom, .checkbox-custom-label, .radio-custom, .radio-custom-label {
+.checkbox-custom, .checkbox-custom-label{
     display: inline-block;
     vertical-align: middle;
     margin: 5px;
