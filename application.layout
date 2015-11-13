@@ -28,8 +28,13 @@
     </head>
     <body id="page-top" class="main_container" >
         {{yield}}
-        <div class="footer">
-            yo
+        <div class="footer row">
+            <div class="col-md-6">
+                
+            </div>
+            <div class="col-md-6">
+                
+            </div>
         </div>
     </body>
 </html>
