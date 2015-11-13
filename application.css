@@ -101,6 +101,10 @@
     line-height: 0;
 }
 
+.newsletter_submit_btn:hover, newsletter_submit_btn:focus{
+    background: #17BCA8;
+}
+
 .confirm_label{
     font-family: HelveticaNeue;
     margin-top:12px;
