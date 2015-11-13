@@ -2,13 +2,16 @@
 
 @font-face {
     font-family: sen;
-    src: url(http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889872000/sen-regular.ttf);
+    src: url(http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889872000/sen-regular.ttf) format('ttf'),
+         url('http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1435781894000/sen-regular.otf') format('otf');
+    
     font-weight: normal
 }
 
 @font-face {
     font-family: sen;
-    src: url(http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889894000/sen-bold.ttf);
+    src: url('http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889894000/sen-bold.ttf') format('ttf'),
+         url('http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1435781888000/sen-bold.otf') format('otf');
     font-weight: bold
 }
 
