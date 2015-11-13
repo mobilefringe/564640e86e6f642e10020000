@@ -1,9 +1,18 @@
 /*Created 2015-02-28 by RKS*/
 
 @font-face {
-    font-family: sansation;
-    src: url(sansation_light.woff);
+    font-family: sen;
+    src: url(http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889872000/sen-regular.ttf);
+    font-weight: normal
 }
+
+@font-face {
+    font-family: sen;
+    src: url(http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889894000/sen-bold.ttf;
+    font-weight: bold
+}
+
+
 .container{
     max-width:1170px;
     border-top:5px solid #19DDC5;
