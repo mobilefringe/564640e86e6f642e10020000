@@ -1,6 +1,12 @@
 <div class="row main_content">
     <div class="col-md-5">
         <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447445059000/SC_logo.png" class="sc_logo" alt="logo">
+        <p class="main_caption">
+            Shop Central is your complete shopping centre guide to the Greater Toronto Area. 
+        </p>
+        <p class="main_caption">
+            Browse the latest deals and stay connected to your favourite shopping centres and stores, all from one app.
+        </p>
     </div>
     <div class="col-md-7">
         <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447445048000/shopcentral_img.png" class="sc_img" alt="sc_img">
