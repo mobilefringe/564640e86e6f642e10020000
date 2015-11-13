@@ -127,7 +127,6 @@
 .checkbox-custom + .checkbox-custom-label:before {
     content: '';
     background: #CCD1D9;
-    border: 2px solid #ddd;
     display: inline-block;
     vertical-align: middle;
     width: 20px;
