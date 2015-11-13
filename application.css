@@ -16,6 +16,10 @@
 }
 
 
+html, body{
+    height:100%;
+}
+
 .main_container{
     font-family: sen;
     max-width:1170px;
