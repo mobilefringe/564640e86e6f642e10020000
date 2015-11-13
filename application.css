@@ -125,6 +125,7 @@
 }
 
 .checkbox-custom + .checkbox-custom-label:before {
+    font-family: 'FontAwesome';
     color: #fff;
     content: '\f00c';
     background: #CCD1D9;
