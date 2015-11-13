@@ -26,26 +26,28 @@
         <![endif]-->
     
     </head>
-    <body id="page-top" class="main_container" >
-        {{yield}}
-        <div class="row">
-            <div class="col-md-12">
-                <div class="footer_div">
-                    <div class="col-md-6">
-                        <p>
-                            © 2015 Shop Central. All rights reserved.
-                            <a href="#">Privacy Policy</a>
-                            |
-                            <a href="#">Terms & Conditions</a>
-                        </p>
+    <body id="page-top"  >
+        <div class="main_container">
+            {{yield}}
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="footer_div">
+                        <div class="col-md-6">
+                            <p>
+                                © 2015 Shop Central. All rights reserved.
+                                <a href="#">Privacy Policy</a>
+                                |
+                                <a href="#">Terms & Conditions</a>
+                            </p>
+                        </div>
+                        <div class="col-md-6 text-right">
+                            <p>
+                                Powered by
+                                <a href="#">Mall Maverick</a>
+                            </p>
+                        </div>
+                        <div class="clearfix"></div>
                     </div>
-                    <div class="col-md-6 text-right">
-                        <p>
-                            Powered by
-                            <a href="#">Mall Maverick</a>
-                        </p>
-                    </div>
-                    <div class="clearfix"></div>
                 </div>
             </div>
         </div>
