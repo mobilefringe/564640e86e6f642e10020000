@@ -126,7 +126,7 @@
 
 .checkbox-custom + .checkbox-custom-label:before {
     content: '';
-    background: #fff;
+    background: #CCD1D9;
     border: 2px solid #ddd;
     display: inline-block;
     vertical-align: middle;
