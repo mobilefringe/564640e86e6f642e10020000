@@ -33,7 +33,11 @@
                 
             </div>
             <div class="col-md-6">
-                
+                <p>
+                    © 2015 Shop Central. All rights reserved.
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Terms & Conditions</a>
+                </p>
             </div>
         </div>
     </body>
