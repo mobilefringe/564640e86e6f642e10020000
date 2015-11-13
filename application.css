@@ -103,6 +103,7 @@
 
 .newsletter_submit_btn:hover, newsletter_submit_btn:focus{
     background: #17BCA8;
+    outline:0;
 }
 
 .confirm_label{
