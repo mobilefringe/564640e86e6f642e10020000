@@ -14,7 +14,8 @@
             <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447445079000/google_play.png" class="download_app_btn" alt="Download from play store">
         </a>
         <div class="newsletter_box">
-            
+            <h4 class="newsletter_header">Get On The List</h4>
+            <p class="newsletter_desc">Join us to stay in the know with your favourite shopping centers.</p>
         </div>
     </div>
     <div class="col-md-7 text-center">
