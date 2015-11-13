@@ -29,7 +29,7 @@
     <body id="page-top" class="main_container" >
         {{yield}}
         <div class="footer">
-            
+            yo
         </div>
     </body>
 </html>
