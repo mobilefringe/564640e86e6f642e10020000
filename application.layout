@@ -26,8 +26,8 @@
         <![endif]-->
     
     </head>
-    <body id="page-top"  >
-        <div class="main_container">
+    <body id="page-top"   class="main_container">
+        <div>
             <div id="content">
                 {{yield}}
             </div>
