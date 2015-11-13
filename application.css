@@ -84,6 +84,10 @@
     margin-right:14px;
 }
 
+.newsletter_email:focus{
+    outline:#A9B2BD;
+}
+
 
 
 
