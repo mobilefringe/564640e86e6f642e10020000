@@ -109,7 +109,7 @@
 }
 
 
-.checkbox-custom, .radio-custom {
+.checkbox-custom {
     opacity: 0;
     position: absolute;   
 }
