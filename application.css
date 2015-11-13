@@ -1,5 +1,9 @@
 /*Created 2015-02-28 by RKS*/
 
+@font-face {
+    font-family: sansation;
+    src: url(sansation_light.woff);
+}
 .container{
     max-width:1170px;
     border-top:5px solid #19DDC5;
