@@ -22,6 +22,7 @@
     border-top:5px solid #19DDC5;
     margin:0 auto;
     min-height:100%;
+    position:relative;
 }
 
 .main_content{
