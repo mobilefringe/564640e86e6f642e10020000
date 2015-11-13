@@ -39,8 +39,11 @@
                             <a href="#">Terms & Conditions</a>
                         </p>
                     </div>
-                    <div class="col-md-6">
-                        
+                    <div class="col-md-6 text-right">
+                        <p>
+                            Powered by
+                            <a href="#">Mall Maverick</a>
+                        </p>
                     </div>
                     <div class="clearfix"></div>
                 </div>
