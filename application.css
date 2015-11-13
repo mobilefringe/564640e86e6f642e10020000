@@ -74,6 +74,14 @@
     margin-bottom:30px;
 }
 
+.newsletter_email{
+    border: 1px solid #A9B2BD;
+    border-radius: 4px;
+    font-family: HelveticaNeue;
+    font-size: 12px;
+    color: #CCD1D9;
+}
+
 
 
 
