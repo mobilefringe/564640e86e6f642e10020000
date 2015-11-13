@@ -141,19 +141,9 @@
 .checkbox-custom:checked + .checkbox-custom-label:before {
     content: "\f00c";
     font-family: 'FontAwesome';
-    background: rebeccapurple;
     color: #fff;
 }
 
-.radio-custom + .radio-custom-label:before {
-    border-radius: 50%;
-}
-
-.radio-custom:checked + .radio-custom-label:before {
-    content: "\f00c";
-    font-family: 'FontAwesome';
-    color: #bbb;
-}
 
 .checkbox-custom:focus + .checkbox-custom-label {
   outline: 1px solid #ddd;
