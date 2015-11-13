@@ -19,7 +19,7 @@
             <input type="text" class="newsletter_email" id="newsletter_email" placeholder="Enter Email" />
             <input type="submit" value="SUBMIT" class="newsletter_submit_btn" id="newsletter_submit" /> 
             <label class="confirm_label checkbox-custom-label">
-                <input type="checkbox" value="true" class="checkbox-custom" />
+                <input type="checkbox" value="true" class="checkbox_custom" />
                 I agree to receive electronic email messaging from Shop Central
             </label>
         </div>
