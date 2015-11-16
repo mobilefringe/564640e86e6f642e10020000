@@ -28,7 +28,7 @@
     <body id="page-top" class="main_container">
         <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447692340000/SC_appicon_2_1_transparent.png" class="bg_top" alt="background 1">
         <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447692344000/SC_appicon_2_1_transparent Copy.png" class="bg_bottom" alt="background 2">
-        <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447693727000/top.png" class="greeb_line" alt="Green Line">
+        <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447693727000/top.png" class="green_line" alt="Green Line">
         <div id="wrap">
             <div id="main">
                 {{yield}}
