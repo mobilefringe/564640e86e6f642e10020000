@@ -210,6 +210,10 @@
     .bg_top, .bg_bottom{
         display:none;
     }
+    .sc_img{
+        max-width:100%;
+        margin-top:30px;
+    }
 }
 
 
