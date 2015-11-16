@@ -229,6 +229,10 @@
     .download_app_btn.last_child{
         float:right;
     }
+    
+    .newsletter_box{
+        text-align:center;
+    }
 }
 
 
