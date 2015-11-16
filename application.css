@@ -214,8 +214,6 @@
 }
 
 
-
-
 @media(max-width:1024px){
     .bg_top, .bg_bottom{
         display:none;
@@ -267,6 +265,10 @@
         margin-left: auto;
         margin-right: auto;
     }
+}
+
+@media(max-width:800px){
+    
 }
 
 
