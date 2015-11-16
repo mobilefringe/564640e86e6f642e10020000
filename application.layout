@@ -26,7 +26,7 @@
     
     </head>
     <body id="page-top" class="main_container">
-        grden_line
+        <div class="green_line"></div>
         <div id="wrap">
             <div id="main">
                 {{yield}}
