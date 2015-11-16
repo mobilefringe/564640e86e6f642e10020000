@@ -4,6 +4,7 @@ $('#newsletter_form').submit(function(e){
    e.preventDefault();
    if($('#agree_terms').prop('checked') == false){
         $('#agree_terms').focus();
+        alert("Please agree to receieve newsletters from Shop Central")
    }
    else{
        $.getJSON(
