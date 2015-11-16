@@ -39,6 +39,7 @@
                         <div class="col-md-6 footer_p">
                             <p>
                                 © 2015 Shop Central. All rights reserved.
+                                <br class="show_phone" />
                                 <a href="#">Privacy Policy</a>
                                 |
                                 <a href="#">Terms & Conditions</a>
