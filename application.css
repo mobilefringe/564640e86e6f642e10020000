@@ -252,7 +252,7 @@
     }
     
     .show_phone{
-        display:online-block;
+        display:inline-block;
     }
 }
 
