@@ -209,6 +209,10 @@
     text-align:right;
 }
 
+.show_phone{
+    display:none;
+}
+
 
 @media(max-width:800px){
     .bg_top, .bg_bottom{
