@@ -16,7 +16,7 @@
         <div class="newsletter_box">
             <h4 class="newsletter_header">Get On The List</h4>
             <p class="newsletter_desc">Join us to stay in the know with your favourite shopping centers.</p>
-            <input type="text" class="newsletter_email" id="newsletter_email" placeholder="Enter Email" />
+            <input type="text" class="newsletter_email" id="newsletter_email" placeholder="Enter Email" required= "required" />
             <input type="submit" value="SUBMIT" class="newsletter_submit_btn" id="newsletter_submit" /> 
             <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom" />
             <label for="agree_terms" class="confirm_label checkbox-custom-label">
