@@ -249,9 +249,7 @@
         margin-top:10px;
     }
     
-    .show_phone{
-        display:inline-block;
-    }
+    
     
     .newsletter_desc{
         width: 90%;
@@ -261,6 +259,16 @@
 }
 
 @media(max-width:800px){
+    .show_phone{
+        display:inline-block;
+    }
+    .powered_by{
+        text-align:center;
+    }
+    .footer_p p{
+        text-align:center;
+        margin-bottom:20px;
+    }
     
 }
 
