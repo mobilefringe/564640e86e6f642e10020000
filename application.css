@@ -249,7 +249,9 @@
         margin-top:10px;
     }
     
-    
+    .footer{
+        margin:0;
+    }
     .footer .col-md-12{
         padding:0;
     }
