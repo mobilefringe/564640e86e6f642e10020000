@@ -16,6 +16,9 @@
 
 .sc_link{
     color:#8E69D7;
+    &:hover{
+        color:#8E69D7;
+    }
 }
 
 .app_icon{
