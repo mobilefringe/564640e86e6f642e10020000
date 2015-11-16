@@ -233,6 +233,9 @@
     .newsletter_box{
         text-align:center;
     }
+    .newsletter_email{
+        width:100%;
+    }
 }
 
 
