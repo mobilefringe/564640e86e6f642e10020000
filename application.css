@@ -205,6 +205,9 @@
 .footer_div p{
     margin:0;
 }
+.powered_by{
+    text-align:right;
+}
 
 
 @media(max-width:800px){
