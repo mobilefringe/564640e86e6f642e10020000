@@ -24,7 +24,7 @@
                 <label for="agree_terms" class="confirm_label checkbox-custom-label">
                     I agree to receive email messages from Shop Central
                 </label>
-                <p class="subscription_confirmed"></p>
+                <p class="subscription_confirmed">Thank you for subscribing</p>
             </form>
         </div>
     </div>
