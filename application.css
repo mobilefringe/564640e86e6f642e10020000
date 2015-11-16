@@ -69,13 +69,13 @@
 }
 
 .sc_logo{
-    width:327px;
+    max-width:327px;
     margin-bottom:40px;
     margin-top: 45px;
 }
 
 .sc_img{
-    width:616px;
+    max-width:616px;
 }
 
 .main_caption{
