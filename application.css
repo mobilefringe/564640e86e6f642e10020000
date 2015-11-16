@@ -13,6 +13,11 @@
     font-weight: bold
 }
 
+.app_icon{
+    height: 58px;
+    margin-top: 20px;
+    margin-right: 12px;
+}
 
 .green_line{
     border-top: 5px solid #19DDC5;
