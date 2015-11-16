@@ -258,6 +258,12 @@
     .show_phone{
         display:inline-block;
     }
+    
+    .newsletter_desc{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 
