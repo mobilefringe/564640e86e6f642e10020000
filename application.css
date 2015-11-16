@@ -24,6 +24,7 @@
 .main_content{
     padding-top:32px;
     margin-bottom:32px;
+    position:relative;
 }
 
 .sc_logo{
