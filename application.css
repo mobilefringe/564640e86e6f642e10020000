@@ -214,7 +214,7 @@
 }
 
 
-@media(max-width:800px){
+@media(max-width:400px){
     .bg_top, .bg_bottom{
         display:none;
     }
