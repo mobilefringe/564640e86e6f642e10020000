@@ -9,7 +9,7 @@ $('#newsletter_form').submit(function(e){
             if (data.Status === 400) {
                 alert("Please try again later.");
             } else { // 200
-                $("#success_subscribe").fadeIn();
+                $("#subscription_confirmed").fadeIn();
             }
     });
 
