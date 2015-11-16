@@ -267,6 +267,10 @@
         margin-left: auto;
         margin-right: auto;
     }
+    
+    .app_icon{
+        display:none;
+    }
 }
 
 @media(max-width:800px){
