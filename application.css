@@ -24,6 +24,11 @@
     position:absolute;
 }
 
+#subscription_confirmed{
+    color:#8E69D7;
+    margin:0;
+}
+
 
 .main_container{
     font-family: sen;
