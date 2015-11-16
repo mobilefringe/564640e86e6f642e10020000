@@ -3,4 +3,40 @@
         display:none
     }
 </style>
-<h1 class="404_header">Sorry we can't find the page you're looking for</h1>
+
+<div class="row main_content">
+    <div class="col-md-5">
+        <a href="#"><img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447445059000/SC_logo.png" class="sc_logo" alt="logo"></a>
+        <p class="main_caption">
+            Shop Central is your complete shopping centre guide to the Greater Toronto Area. 
+        </p>
+        <p class="main_caption">
+            Browse the latest deals and stay connected to your favourite shopping centres and stores, all from one app.
+        </p>
+        <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447344044000/ic_launcher.png" class="app_icon" alt="App icon">
+        <a href="#">
+            <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447445068000/apple.png" class="download_app_btn" alt="Download for iOS">
+        </a>
+        <a href="#">
+            <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447445079000/google_play.png" class="last_child download_app_btn" alt="Download from play store">
+        </a>
+        <div class="newsletter_box">
+            <h4 class="newsletter_header">Get On The List</h4>
+            <p class="newsletter_desc">Join us to stay in the know with your favourite shopping centers.</p>
+            <form action="http://mobilefringe.createsend.com/t/d/s/dillir/" id="newsletter_form">
+                <input id="fieldthjup" name="cm-f-thjup" type="hidden" value="SC landing page" />
+                <input name="cm-dillir-dillir" type="text" class="newsletter_email" id="newsletter_email" placeholder="Enter Email" required="required" />
+                <input type="submit" value="SUBMIT" class="newsletter_submit_btn" id="newsletter_submit" /> 
+                <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom" />
+                <label for="agree_terms" class="confirm_label checkbox-custom-label">
+                    I agree to receive email messages from Shop Central
+                </label>
+                <p id="subscription_confirmed">Thank you for subscribing.</p>
+            </form>
+        </div>
+    </div>
+    <div class="col-md-7 text-center">
+        <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447445048000/shopcentral_img.png" class="sc_img" alt="sc_img">
+    </div>
+</div>
+>
