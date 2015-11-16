@@ -23,6 +23,13 @@
     overflow-x:hidden;
 }
 
+.bg_top{
+    position:absolute;
+    top:-5px;
+    right:0;
+    transform: translateX(50%);
+}
+
 .main_content{
     padding-top:32px;
     margin-bottom:32px;
