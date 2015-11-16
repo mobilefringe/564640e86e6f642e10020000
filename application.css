@@ -20,7 +20,7 @@
     border-top:5px solid #19DDC5;
     margin:0 auto;
     position:relative;
-    overflow:hidden;
+    overflow-x:hidden;
 }
 
 .main_content{
