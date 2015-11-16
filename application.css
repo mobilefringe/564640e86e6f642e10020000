@@ -236,6 +236,9 @@
     .newsletter_email{
         width:100%;
     }
+    .newsletter_submit_btn{
+        margin-top:10px;
+    }
 }
 
 
