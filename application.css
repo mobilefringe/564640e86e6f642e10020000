@@ -240,6 +240,7 @@
     
     .newsletter_box{
         text-align:center;
+        max-width:100%;
     }
     .newsletter_email{
         width:100%;
