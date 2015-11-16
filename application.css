@@ -226,6 +226,9 @@
         width: 48%;
         margin-right: 0;
     }
+    .download_app_btn:last-child{
+        float:right;
+    }
 }
 
 
