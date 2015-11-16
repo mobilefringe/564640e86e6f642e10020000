@@ -19,12 +19,12 @@
     max-width:1170px;
     border-top:5px solid #19DDC5;
     margin:0 auto;
+    position:relative;
 }
 
 .main_content{
     padding-top:32px;
     margin-bottom:32px;
-    position:relative;
 }
 
 .sc_logo{
