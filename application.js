@@ -3,7 +3,7 @@
 $('#newsletter_form').submit(function(e){
    e.preventDefault();
    if($('#agree_terms').prop('checked') == false){
-        $('#agree_terms').focus()
+        $('#agree_terms').focus();
    }
    else{
        $.getJSON(
