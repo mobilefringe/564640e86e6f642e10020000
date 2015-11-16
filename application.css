@@ -18,6 +18,10 @@
     border-top: 5px solid #19DDC5;
 }
 
+.full_width{
+    width:100%;
+}
+
 
 .main_container{
     font-family: sen;
