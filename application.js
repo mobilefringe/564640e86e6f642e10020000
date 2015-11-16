@@ -2,7 +2,7 @@
 
 $('#newsletter_form').submit(function(e){
    e.preventDefault();
-   if($('#agree_terms').prop('checked')){
+   if($('#agree_terms').prop('checked') == false){
    
    }
    else{
