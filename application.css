@@ -222,6 +222,10 @@
         max-width:100%;
         margin-top:20px;
     }
+    .download_app_btn{
+        width: 48%;
+        margin-right: 0px;
+    }
 }
 
 
