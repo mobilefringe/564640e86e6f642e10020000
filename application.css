@@ -1,14 +1,14 @@
 /*Created 2015-02-28 by RKS*/
 
 @font-face {
-    font-family: sc_sc_sen;
+    font-family: sc_sen;
     src: url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/962/original/sen-regular.ttf?1448561644') format('ttf');
     
     font-weight: normal
 }
 
 @font-face {
-    font-family: sc_sc_sen;
+    font-family: sc_sen;
     src: url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/961/original/sen-bold.ttf?1448561644') format('ttf');
     font-weight: bold
 }
