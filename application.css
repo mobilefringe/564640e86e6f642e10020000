@@ -1,14 +1,14 @@
 /*Created 2015-02-28 by RKS*/
 
 @font-face {
-    font-family: sen;
+    font-family: sc_sc_sen;
     src: url('http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889872000/sen-regular.ttf') format('ttf');
     
     font-weight: normal
 }
 
 @font-face {
-    font-family: sen;
+    font-family: sc_sc_sen;
     src: url('http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889894000/sen-bold.ttf') format('ttf');
     font-weight: bold
 }
@@ -51,7 +51,7 @@
 
 
 .main_container{
-    font-family: sen;
+    font-family: sc_sen;
     max-width:1170px;
     margin:0 auto;
     position:relative;
@@ -96,7 +96,7 @@
 }
 
 .main_caption{
-    font-family:sen;
+    font-family:sc_sen;
     font-size:20px;
     margin-bottom:42px;
     max-width:420px;
