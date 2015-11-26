@@ -1,14 +1,15 @@
 /*Created 2015-02-28 by RKS*/
 
 @font-face {
-    font-family: sc_sen;
-    src: url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/962/original/sen-regular.ttf?1448561644') format('ttf');
+    font-family: sen;
+    src: url('http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889872000/sen-regular.ttf') format('ttf');
+    
     font-weight: normal
 }
 
 @font-face {
-    font-family: sc_sen;
-    src: url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/961/original/sen-bold.ttf?1448561644') format('ttf');
+    font-family: sen;
+    src: url('http://assets.codecloudapp.com/sites/564640e86e6f642e10020000//1438889894000/sen-bold.ttf') format('ttf');
     font-weight: bold
 }
 
@@ -50,7 +51,7 @@
 
 
 .main_container{
-    font-family: sc_sen;
+    font-family: sen;
     max-width:1170px;
     margin:0 auto;
     position:relative;
@@ -95,7 +96,7 @@
 }
 
 .main_caption{
-    font-family:sc_sen;
+    font-family:sen;
     font-size:20px;
     margin-bottom:42px;
     max-width:420px;
