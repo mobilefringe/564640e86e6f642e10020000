@@ -169,12 +169,12 @@
 }
 
 .confirm_label{
-    font-family: HelveticaNeue;
-    margin-top:12px;
+    font-family: "Helvetica Neue";
+    margin-top: 12px;
     font-size: 14px;
     color: #000000;
-    font-weight:100;
-    text-align:left;
+    font-weight: 400;
+    text-align: left;
 }
 
 
