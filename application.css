@@ -50,7 +50,7 @@
 
 
 .main_container{
-    font-family: sc_sen;
+    font-family: 'sc_sen';
     max-width:1170px;
     margin:0 auto;
     position:relative;
@@ -95,7 +95,7 @@
 }
 
 .main_caption{
-    font-family:sc_sen;
+    font-family: 'sc_sen';
     font-size:20px;
     margin-bottom:42px;
     max-width:420px;
