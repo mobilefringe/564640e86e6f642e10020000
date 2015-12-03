@@ -109,8 +109,12 @@
         display: inline-block;
         margin-top: 10px;
     }
+    i{
+        font-size:16px;
+    }
     a{
         color:#19DDC5;
+        font-size:16px;
         &:hover{
             text-decoration:none;
             color:#17BCA8;
