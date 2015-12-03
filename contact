@@ -55,7 +55,7 @@
                     
                 </div>
                 <div class="col-md-7">
-                    <input type="submit" class="btn"/>
+                    <input type="submit" class="newsletter_submit_btn"/>
                 </div>
             </div>
         </form>
