@@ -105,6 +105,10 @@
     font-size:20px;
     margin-bottom:42px;
     max-width:420px;
+    span{
+        display: inline-block;
+        margin-top: 10px;
+    }
 }
 
 .download_app_btn{
