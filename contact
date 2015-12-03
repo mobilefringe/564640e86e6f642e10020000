@@ -23,7 +23,7 @@
             </div>
             <div class="row">
                 <div class="col-md-5 text-right">
-                    <label for="name">Name:</label>
+                    <label for="name">Name:*</label>
                 </div>
                 <div class="col-md-7">
                     <input id="name" type="text" class="form-control" name="name" required />
@@ -31,7 +31,7 @@
             </div>
             <div class="row">
                 <div class="col-md-5 text-right">
-                    <label for="email">Email:</label>
+                    <label for="email">Email*:</label>
                 </div>
                 <div class="col-md-7">
                     <input id="email" name="email" type="text" class="form-control" required />
@@ -39,7 +39,7 @@
             </div>
             <div class="row">
                 <div class="col-md-5 text-right">
-                    <label for="message">How can we help you today?</label>
+                    <label for="message">How can we help you today?*</label>
                 </div>
                 <div class="col-md-7">
                     <textarea id="message" name="message" type="text" class="form-control" required ></textarea>
