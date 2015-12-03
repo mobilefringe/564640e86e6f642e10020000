@@ -104,6 +104,13 @@
     margin:42px 0;
 }
 
+.side_img{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 .main_caption{
     font-family: 'sc_sen';
     font-size:18px;
