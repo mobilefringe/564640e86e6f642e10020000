@@ -9,10 +9,10 @@
         </p>
         <form id="contact_form">
             <div class="row">
-                <div class="col-md-4 text-right">
+                <div class="col-md-5 text-right">
                     <label for="who_are_you">Tell us who you are:</label>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <select id="who_are_you" class="form-control" name="subject">
                         <option value="National Brand">National Brand</option>
                         <option value="Mall Operator">Mall Operator</option>
@@ -22,26 +22,26 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 text-right">
+                <div class="col-md-5 text-right">
                     <label for="name">Name:</label>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <input id="name" type="text" class="form-control" name="name" required />
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 text-right">
+                <div class="col-md-5 text-right">
                     <label for="email">Email:</label>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <input id="email" name="email" type="text" class="form-control" required />
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 text-right">
+                <div class="col-md-5 text-right">
                     <label for="message">How can we help you today?</label>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-7">
                     <textarea id="message" name="message" type="text" class="form-control" required ></textarea>
                 </div>
             </div>
