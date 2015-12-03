@@ -111,9 +111,14 @@
     }
 }
 
-#contact_form label{
-    padding: 6px 0;
-    font-size: 16px;
+#contact_form {
+    label{
+        padding: 6px 0;
+        font-size: 16px;
+    }
+    .row{
+        margin-bottom:10px;
+    }
 }
 
 .download_app_btn{
