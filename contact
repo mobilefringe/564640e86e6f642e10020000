@@ -9,7 +9,7 @@
         </p>
         <form id="contact_form">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 text-right">
                     <label for="who_are_you">Tell us who you are:</label>
                 </div>
                 <div class="col-md-6">
