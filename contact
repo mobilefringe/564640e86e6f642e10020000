@@ -13,12 +13,18 @@
                     <label for="who_are_you">Tell us who you are:</label>
                 </div>
                 <div class="col-md-6">
-                    <select id="who_are_you" class="form-control">
+                    <select id="who_are_you" class="form-control" name="subject">
                         <option value="National Brand">National Brand</option>
                         <option value="Mall Operator">Mall Operator</option>
                         <option value="Shop Central User">Shop Central User</option>
                         <option value="Local Business">Local Business</option>
                     </select>
+                </div>
+                <div class="col-md-6 text-right">
+                    <label for="name">Tell us who you are:</label>
+                </div>
+                <div class="col-md-6">
+                    <input type="text" class="form-control" required />
                 </div>
             </div>
         </form>
