@@ -1,3 +1,9 @@
+<style>
+    #contact_form {
+    margin-top:140px;
+    width:90%;
+    margin-left:auto;}
+</style>
 <div class="row main_content">
     <div class="col-md-5">
         <a href="/">
