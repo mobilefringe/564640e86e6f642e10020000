@@ -119,6 +119,9 @@
     .row{
         margin-bottom:20px;
     }
+    textarea{
+        height:100px;
+    }
 }
 
 .download_app_btn{
