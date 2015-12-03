@@ -1,5 +1,5 @@
 <style>
-    .bg_bottom, .bg_top{display:none};
+    .bg_bottom, .bg_top{display:none}
     #contact_form {
     margin-top:140px;
     width:90%;
