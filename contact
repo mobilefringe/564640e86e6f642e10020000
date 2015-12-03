@@ -23,7 +23,7 @@
             </div>
             <div class="row">
                 <div class="col-md-6 text-right">
-                    <label for="name">Tell us who you are:</label>
+                    <label for="name">Name:</label>
                 </div>
                 <div class="col-md-6">
                     <input type="text" class="form-control" required />
