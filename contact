@@ -14,7 +14,7 @@
         
         <form id="contact_form">
             <div class="row">
-                <div class="col-md-5 text-right">
+                <div class="col-md-5 ">
                     <label for="who_are_you">Tell us who you are:</label>
                 </div>
                 <div class="col-md-7">
