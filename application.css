@@ -112,7 +112,7 @@
     a{
         color:#19DDC5;
         &:hover{
-            text-decoration:none;
+            text-decoration:underline;
             color:#17BCA8;
         }
     }
