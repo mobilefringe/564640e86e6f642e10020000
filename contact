@@ -45,6 +45,14 @@
                     <textarea id="message" name="message" type="text" class="form-control" required ></textarea>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-5 text-right">
+                    
+                </div>
+                <div class="col-md-7">
+                    <input type="submit" />
+                </div>
+            </div>
         </form>
     </div>
     <div class="col-md-7 text-center">
