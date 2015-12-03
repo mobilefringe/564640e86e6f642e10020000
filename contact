@@ -26,7 +26,15 @@
                     <label for="name">Name:</label>
                 </div>
                 <div class="col-md-6">
-                    <input type="text" class="form-control" required />
+                    <input id="name" type="text" class="form-control" name="name" required />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 text-right">
+                    <label for="email">Name:</label>
+                </div>
+                <div class="col-md-6">
+                    <input id="email" name="email" type="text" class="form-control" required />
                 </div>
             </div>
         </form>
