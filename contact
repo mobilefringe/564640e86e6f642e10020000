@@ -20,6 +20,8 @@
                         <option value="Local Business">Local Business</option>
                     </select>
                 </div>
+            </div>
+            <div class="row">
                 <div class="col-md-6 text-right">
                     <label for="name">Tell us who you are:</label>
                 </div>
