@@ -111,6 +111,10 @@
     }
 }
 
+#contact_form label{
+    padding:0 7px;
+}
+
 .download_app_btn{
     width:140px;
     margin-right:18px;
