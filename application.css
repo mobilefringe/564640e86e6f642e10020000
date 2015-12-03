@@ -100,9 +100,13 @@
     max-width:616px;
 }
 
+.seperator{
+    margin:42px 0;
+}
+
 .main_caption{
     font-family: 'sc_sen';
-    font-size:20px;
+    font-size:18px;
     margin-bottom:42px;
     desc{
         display: inline-block;
