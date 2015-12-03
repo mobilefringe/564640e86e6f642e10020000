@@ -1,0 +1,67 @@
+<div class="row main_content">
+    <div class="col-md-5">
+        <a href="/">
+            <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1449171421000/SC_logo2.png" class="sc_logo" alt="logo">
+        </a>
+        <p class="main_caption">
+            We'd Love to Hear from You!
+            <desc>Let us know if you have a great idea for our website or mobile app experience!</desc>
+            <desc>If you have any questions about our service or about a potential partnership, please let us know.</desc>
+            <span class="margin_10"></span>
+            <desc><i class="fa fa-envelope-o"></i> <a href="mailto:info@shopcentral.com">info@shopcentral.com</a></desc>
+            <br />
+            <desc><i class="fa fa-phone"></i> <a href="tel: 1.888.854.5796"> 1.888.854.5796</a></desc>
+        </p>
+        <hr class="seperator" />
+        <form id="contact_form">
+            <div class="row">
+                <div class="col-md-5 ">
+                    <label for="who_are_you">Tell us who you are:</label>
+                </div>
+                <div class="col-md-7">
+                    <select id="who_are_you" class="form-control" name="subject">
+                        <option value="National Brand">National Brand</option>
+                        <option value="Mall Operator">Mall Operator</option>
+                        <option value="Shop Central User">Shop Central User</option>
+                        <option value="Local Business">Local Business</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-5 ">
+                    <label for="name">Name:*</label>
+                </div>
+                <div class="col-md-7">
+                    <input id="name" type="text" class="form-control" name="name" required />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-5 ">
+                    <label for="email">Email*:</label>
+                </div>
+                <div class="col-md-7">
+                    <input id="email" name="email" type="text" class="form-control" required />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-5">
+                    <label for="message">How can we help you today?*</label>
+                </div>
+                <div class="col-md-7">
+                    <textarea id="message" name="message" type="text" class="form-control" required ></textarea>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-5 ">
+                    
+                </div>
+                <div class="col-md-7">
+                    <input type="submit" class="newsletter_submit_btn"/>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-7  text-center">
+        <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447780182000/landingpage_img.png" class="sc_img" alt="sc_img">
+    </div>
+</div>
