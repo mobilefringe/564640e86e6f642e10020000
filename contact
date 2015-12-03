@@ -11,7 +11,7 @@
             <br />
             <desc><i class="fa fa-phone"></i> <a href="tel: 1.888.854.5796"> 1.888.854.5796</a></desc>
         </p>
-        
+        <hr />
         <form id="contact_form">
             <div class="row">
                 <div class="col-md-5 ">
