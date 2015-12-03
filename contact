@@ -42,7 +42,7 @@
                     <label for="message">How can we help you today?</label>
                 </div>
                 <div class="col-md-6">
-                    <text_area id="message" name="message" type="text" class="form-control" required ></text_area>
+                    <textarea id="message" name="message" type="text" class="form-control" required ></textarea>
                 </div>
             </div>
         </form>
