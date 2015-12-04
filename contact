@@ -53,6 +53,7 @@
                 </div>
                 <div class="col-md-7">
                     <input type="submit" class="newsletter_submit_btn"/>
+                    <span class="margin_10"></span>
                     <p id="email_sent">Thank you for contacting us. We will get in touch with you soon.</p>
                 </div>
             </div>
