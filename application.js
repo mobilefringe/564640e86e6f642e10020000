@@ -21,7 +21,7 @@ $(document).ready(function(e){
        }
     });
     
-    $('#email_form').submit(function(e){
+    $('#contact_form').submit(function(e){
         e.preventDefault();
         data = {};
         data.send_to = "support@mobilefringe.com";
