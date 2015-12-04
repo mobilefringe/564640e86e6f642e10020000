@@ -40,10 +40,10 @@
                             <p>
                                 © 2015 Shop Central. All rights reserved.
                                 <br class="show_phone" />
-                                <a href="#">Privacy Policy</a>
-                                |
-                                <a href="#">Terms & Conditions</a>
-                                |
+                                <!--<a href="#">Privacy Policy</a>-->
+                                <!--|-->
+                                <!--<a href="#">Terms & Conditions</a>-->
+                                <!--|-->
                                 <a href="/contact">Contact Us</a>
                             </p>
                         </div>
