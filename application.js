@@ -26,8 +26,8 @@ $(document).ready(function(e){
         data = {};
         data.send_to = "rajbir@mobilefringe.com";
         data.subject = "Get in touch - Shop Central";
-        var message = "Feedback type: " + $('#feeback_type').val() + "<br />" + $('#message').val();
-        data.body = {"email" : $('#email').val(), "name" : $('#name').val(), "message" : message};
+        var message = $('#message').val();
+        data.body = {"Email" : $('#email').val(), "Name" : $('#name').val(), "Feedback type: ": $('#feeback_type').val(), "Message" : message};
         $.post('http://mobilefringe.mallmaverick.com/send_contact_email', data, function(data, textStatus, jqXHR){
             if(textStatus == "success"){
                 $('#email_sent').fadeIn();
