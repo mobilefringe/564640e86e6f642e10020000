@@ -24,9 +24,10 @@ $(document).ready(function(e){
     $('#contact_form').submit(function(e){
         e.preventDefault();
         data = {};
-        data.send_to = "support@mobilefringe.com";
+        data.send_to = "shopcentral@mobilefringe.com";
         data.subject = "Get in touch - Mobile Fringe form";
-        data.body = {"email" : $('#yourEmail').val(), "name" : $('#yourName').val(), "message" : $('#yourMessage').val()};
+        var message = "Feedback type: " + $('#feeback_type').val() + "\n" + $('#yourMessage').val();
+        data.body = {"email" : $('#email').val(), "name" : $('#name').val(), "message" : message};
         $.post('http://mobilefringe.mallmaverick.com/send_contact_email', data, function(data, textStatus, jqXHR){
             if(textStatus == "success"){
                 $('#email_sent').fadeIn();
