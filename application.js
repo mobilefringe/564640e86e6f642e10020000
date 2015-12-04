@@ -24,7 +24,7 @@ $(document).ready(function(e){
     $('#contact_form').submit(function(e){
         e.preventDefault();
         data = {};
-        data.send_to = "rajbir@mobilefringe.com";
+        data.send_to = "shopcentral@mobilefringe.com";
         data.subject = "Get in touch - Shop Central";
         var message = $('#message').val();
         data.body = {"Email" : $('#email').val(), "Name" : $('#name').val(), "Feedback type: ": $('#feeback_type').val(), "Message" : message};
