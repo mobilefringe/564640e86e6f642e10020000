@@ -23,6 +23,9 @@
     display:block;
 }
 
+#email_sent{
+    display:none;
+}
 .sc_link{
     color:#8E69D7;
     &:hover{
