@@ -12,10 +12,10 @@
         <form id="contact_form">
             <div class="row">
                 <div class="col-md-5 ">
-                    <label for="who_are_you">Tell us who you are:</label>
+                    <label for="feeback_type">Tell us who you are:</label>
                 </div>
                 <div class="col-md-7">
-                    <select id="who_are_you" class="form-control" name="subject">
+                    <select id="feeback_type" class="form-control" name="subject">
                         <option value="National Brand">National Brand</option>
                         <option value="Mall Operator">Mall Operator</option>
                         <option value="Shop Central User">Shop Central User</option>
