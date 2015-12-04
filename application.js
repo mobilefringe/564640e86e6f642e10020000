@@ -31,6 +31,7 @@ $(document).ready(function(e){
         $.post('http://mobilefringe.mallmaverick.com/send_contact_email', data, function(data, textStatus, jqXHR){
             if(textStatus == "success"){
                 $('#email_sent').fadeIn();
+                $(this).trigger('reset');
             }
             else{
                 alert("Error sending email. Please try again later.");
