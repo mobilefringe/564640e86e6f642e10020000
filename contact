@@ -59,7 +59,7 @@
             </div>
         </form>
     </div>
-    <div class="col-md-7  text-center">
+    <div class="col-md-7  text-center hidden_phone">
         <img src="http://assets.codecloudapp.com/sites/564640e86e6f642e10020000/image/png/1447780182000/landingpage_img.png" class="sc_img" alt="sc_img">
     </div>
 </div>
