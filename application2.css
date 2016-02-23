@@ -26,3 +26,8 @@
 #main_header{
     background:#19DDC5;
 }
+
+.main_container{
+    width:940px;
+    margin:0 auto;
+}
