@@ -38,7 +38,9 @@
     </head>
     <body id="page-top">
         <div id="main_header">
-            yo
+            <div class="main_container">
+                
+            </div>
         </div>
         <div id="main">
             {{yield}}
