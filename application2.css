@@ -1,0 +1,28 @@
+/*Created 2015-02-28 by RKS*/
+
+@font-face {
+    font-family: 'sc_sen';
+    src: url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/971/original/sen-bold-webfont.eot?1448562362') format('embedded-opentype'),
+         url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/972/original/sen-bold-webfont.woff?1448562362') format('woff'),
+         url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/973/original/sen-bold-webfont.ttf?1448562362') format('truetype'),
+         url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/974/original/sen-bold-webfont.svg?1448562362') format('svg');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'sc_sen';
+    src: url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/967/original/sen-regular-webfont.eot?1448562347') format('embedded-opentype'),
+         url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/968/original/sen-regular-webfont.woff?1448562347') format('woff'),
+         url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/970/original/sen-regular-webfont.ttf?1448562347') format('truetype'),
+         url('http://cdn.mallmaverick.com/system/site_images/photos/000/014/969/original/sen-regular-webfont.svg?1448562347') format('svg');
+    font-weight: normal;
+}
+
+.margin_10{
+    margin-bottom:10px;
+    display:block;
+}
+
+#main_header{
+    background:#19DDC5;
+}
