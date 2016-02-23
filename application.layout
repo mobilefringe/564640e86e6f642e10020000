@@ -36,7 +36,7 @@
         </script>
     </head>
     <body id="page-top" class="main_container">
-        <div>
+        <div id="main_header">
             
         </div>
         <div id="main">
