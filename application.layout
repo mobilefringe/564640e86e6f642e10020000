@@ -36,6 +36,9 @@
         </script>
     </head>
     <body id="page-top" class="main_container">
+        <div>
+            
+        </div>
         <div id="main">
             {{yield}}
         </div>
