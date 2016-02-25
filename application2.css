@@ -203,7 +203,7 @@ body{
 
 .fixed_image{
     position:fixed;
-    
+    top: 165px;
 }
 
 .footer_logo{
