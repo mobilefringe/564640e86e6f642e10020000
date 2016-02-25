@@ -58,8 +58,9 @@
            var st = $(this).scrollTop();
            if (st > lastScrollTop){
                 if($(document).scrollTop() >= $('.how_it_works').position().top){
-               $('.image_cover').addClass("fixed_image");
-           } 
+                    $('.image_cover').addClass("fixed_image");
+                }
+            } 
            } else {
               $(document).scrollTop() < $('.how_it_works').height()
            }
