@@ -195,10 +195,10 @@ body{
     width:380px;
 }
 
-.fixed_image{
-    position:fixed;
-    top:165px;
-}
+// .fixed_image{
+//     position:fixed;
+//     top:165px;
+// }
 
 #main_footer{
     padding:80px 0;
