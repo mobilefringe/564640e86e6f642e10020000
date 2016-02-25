@@ -55,6 +55,7 @@ body{
     background-repeat:no-repeat;
     height: 100vh;
     padding:80px 0;
+    background-attachment: fixed;
 }
 
 .main_nav{
