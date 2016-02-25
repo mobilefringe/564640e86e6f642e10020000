@@ -51,6 +51,7 @@ body{
 .how_it_works{
     background-image: url(http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456416308000/bg_works.png);
     background-color:#F1F1F1;
+    background-repeat:none;
     height:100vh;
 }
 
