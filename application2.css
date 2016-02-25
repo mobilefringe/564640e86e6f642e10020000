@@ -53,8 +53,7 @@ body{
     background-position: 0px 30px;
     background-color:#F1F1F1;
     background-repeat:no-repeat;
-    height:100vh;
-    min-height: 950px;
+    min-height: 100vh;
 }
 
 .main_nav{
