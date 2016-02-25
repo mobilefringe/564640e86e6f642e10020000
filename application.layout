@@ -56,7 +56,7 @@
         <div id="main">
             {{yield}}
         </div>
-        <div id="footer">
+        <div id="main_footer">
             
         </div>
     </body>
