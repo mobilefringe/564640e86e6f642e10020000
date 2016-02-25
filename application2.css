@@ -113,7 +113,7 @@ body{
 }
 
 .checkbox-custom, .checkbox-custom-label{
-    display: inline-block;
+    display: block;
     vertical-align: middle;
     cursor: pointer;
 }
