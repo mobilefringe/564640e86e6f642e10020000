@@ -62,10 +62,10 @@
                     <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456418855000/footer_logo.png" class="" alt="">
                 </div>
                 <div class="col-md-6 text-right">
-                    <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445068000/apple.png" class="" alt="download_apple">
+                    <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445068000/apple.png" class="download_app" alt="download from itunes store">
                 </div>
                 <div class="col-md-6 text-left">
-                    <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445079000/google_play.png" class="" alt="">
+                    <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445079000/google_play.png" class="" alt="download from play store">
                 </div>
         </div>
     </body>
