@@ -241,6 +241,13 @@ body{
     line-height: 40px;
 }
 
+.left_scrollable{
+    height:100vh;
+}
+.right_scrollable{
+    height:100vh;
+}
+
 
 
 
