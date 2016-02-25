@@ -60,6 +60,7 @@ body{
     height: 2000px;
     padding:80px 0;
     background-attachment: fixed;
+    position:relative;
 }
 
 .main_nav{
