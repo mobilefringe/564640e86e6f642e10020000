@@ -8,5 +8,7 @@
 </div>
 
 <div class="main_section how_it_works">
-    <h2 class="main_heading">Why is there porro quisquam est qui dolorem</h2>
+    <div class="main_container">
+        <h2 class="main_heading">Why is there porro quisquam est qui dolorem</h2>
+    </div>
 </div>
