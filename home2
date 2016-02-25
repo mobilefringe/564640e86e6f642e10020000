@@ -10,5 +10,13 @@
 <div class="how_it_works">
     <div class="main_container">
         <h2 class="main_heading">How Shop Central works?</h2>
+        <div class="row">
+            <div class="col-md-6">
+                
+            </div>
+            <div class="col-md-6">
+                
+            </div>
+        </div>
     </div>
 </div>
