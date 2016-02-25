@@ -18,6 +18,10 @@
     font-weight: normal;
 }
 
+body{
+    font-family: 'sc_sen';
+}
+
 .margin_10{
     margin-bottom:10px;
     display:block;
