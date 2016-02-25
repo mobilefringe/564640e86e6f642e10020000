@@ -52,4 +52,5 @@
                $('.image_cover').removeClass("fixed_image");
            }
         });
+    }
 </script>
