@@ -57,30 +57,32 @@
             {{yield}}
         </div>
         <div id="main_footer">
-            <div class="row">
-                <div class="col-md-12">
-                    <a href="#">
-                        <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456418855000/footer_logo.png" class="footer_logo" alt="Logo">
-                    </a>
-                </div>
-                <div class="col-md-6 text-right">
-                    <a href="#">
-                        <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445068000/apple.png" class="download_app" alt="download from itunes store">
-                    </a>
-                </div>
-                <div class="col-md-6 text-left">
-                    <a href="#">
-                        <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445079000/google_play.png" class="download_app" alt="download from play store">
-                    </a>
-                </div>
-                <div class="col-md-12">
-                    <p class="footer_text">
-                        © 2016 Shop Central. All rights reserved. 
-                        <a href="#">Privacy Policy</a> | <a href="#">Terms & Conditions</a>
-                    </p>
-                    <p class="footer_text">
-                        Powered by <a href="#">Mall Maverick</a>
-                    </p>
+            <div class="main_container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <a href="#">
+                            <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456418855000/footer_logo.png" class="footer_logo" alt="Logo">
+                        </a>
+                    </div>
+                    <div class="col-md-6 text-right">
+                        <a href="#">
+                            <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445068000/apple.png" class="download_app" alt="download from itunes store">
+                        </a>
+                    </div>
+                    <div class="col-md-6 text-left">
+                        <a href="#">
+                            <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445079000/google_play.png" class="download_app" alt="download from play store">
+                        </a>
+                    </div>
+                    <div class="col-md-12">
+                        <p class="footer_text">
+                            © 2016 Shop Central. All rights reserved. 
+                            <a href="#">Privacy Policy</a> | <a href="#">Terms & Conditions</a>
+                        </p>
+                        <p class="footer_text">
+                            Powered by <a href="#">Mall Maverick</a>
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
