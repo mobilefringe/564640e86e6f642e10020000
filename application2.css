@@ -22,6 +22,10 @@ body{
     font-family: 'sc_sen';
 }
 
+.position_relative{
+    position:relative;
+}
+
 .margin_10{
     margin-bottom:10px;
     display:block;
