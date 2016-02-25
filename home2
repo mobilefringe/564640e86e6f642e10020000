@@ -14,7 +14,7 @@
             <div class="col-md-6 left_scrollable">
                 <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456417054000/phone_works.png" class="image_cover" alt="Cover">
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 right_scrollable">
                 <div>
                     <h3 class="work_header">Choose the center you would like to visit</h3>
                     <p class="work_desc">
