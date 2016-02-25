@@ -62,7 +62,7 @@
                 }
             } 
            } else {
-              $(document).scrollTop() < $('.how_it_works').height()
+            //   $(document).scrollTop() < $('.how_it_works').height()
            }
            lastScrollTop = st;
         });
