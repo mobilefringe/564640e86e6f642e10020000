@@ -201,10 +201,7 @@ body{
     background: url(http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456420565000/footer_bg.png)
 }
 
-.fixed_image{
-    position:fixed;
-    top: 165px;
-}
+
 
 .footer_logo{
     width:200px;
