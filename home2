@@ -57,9 +57,11 @@
         $(window).scroll(function(event){
            var st = $(this).scrollTop();
            if (st > lastScrollTop){
-               // downscroll code
+                if($(document).scrollTop() >= $('.how_it_works').position().top){
+               $('.image_cover').addClass("fixed_image");
+           } 
            } else {
-              // upscroll code
+              $(document).scrollTop() < $('.how_it_works').height()
            }
            lastScrollTop = st;
         });
