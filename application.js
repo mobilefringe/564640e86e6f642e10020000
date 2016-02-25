@@ -41,7 +41,7 @@ $(document).ready(function(e){
     
     function awesomeness(){
         $(window).scroll(function(){
-            
+           if($(document).scrollTop() > $('.how_it_works').position().top && ) 
         });
     }
 });
