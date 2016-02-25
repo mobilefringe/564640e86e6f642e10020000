@@ -243,8 +243,10 @@ body{
 
 .left_scrollable{
     height:100vh;
+    position:absolute;
 }
 .right_scrollable{
+    height:100vh;
     height:100vh;
 }
 
