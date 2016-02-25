@@ -61,7 +61,7 @@
                     $('.image_cover').addClass("fixed_image");
                 }
             } 
-           } else {
+           else {
             //   $(document).scrollTop() < $('.how_it_works').height()
            }
            lastScrollTop = st;
