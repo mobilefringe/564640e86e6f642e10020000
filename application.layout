@@ -53,7 +53,7 @@
                 </div>
             </div>
         </div>
-        <div id="main" class="main_container">
+        <div id="main">
             {{yield}}
         </div>
         
