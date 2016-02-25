@@ -75,6 +75,7 @@ body{
 .desc{
     font-size: 23px;
     color: #4A4A4A;
+    max-width:740px;
     line-height: 40px;
 }
 
