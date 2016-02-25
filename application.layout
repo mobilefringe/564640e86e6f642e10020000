@@ -44,7 +44,9 @@
                         <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456261756000/logo.png" class="main_logo" alt="Main Logo">
                     </div>
                     <div class="col-md-8">
-                        
+                        <div class="main_nav">
+                            
+                        </div>
                     </div>
                 </div>
             </div>
