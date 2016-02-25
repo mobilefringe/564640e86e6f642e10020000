@@ -10,19 +10,21 @@
 <div class="how_it_works">
     <div class="main_container">
         <h2 class="main_heading">How Shop Central works?</h2>
-        <div class="col-md-6">
-            <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456417054000/phone_works.png" class="image_cover" alt="Cover">
-        </div>
-        <div class="col-md-6">
-            <div>
-                <h3 class="work_header">Choose the center you would like to visit</h3>
-                <p class="work_desc">
-                    You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
-                </p>
-                 <h3 class="work_header">Choose the center</h3>
-                <p class="work_desc">
-                    You can always change the center you would like to visit.
-                </p>
+        <div class="row middle_align">
+            <div class="col-md-6">
+                <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456417054000/phone_works.png" class="image_cover" alt="Cover">
+            </div>
+            <div class="col-md-6">
+                <div>
+                    <h3 class="work_header">Choose the center you would like to visit</h3>
+                    <p class="work_desc">
+                        You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
+                    </p>
+                     <h3 class="work_header">Choose the center</h3>
+                    <p class="work_desc">
+                        You can always change the center you would like to visit.
+                    </p>
+                </div>
             </div>
         </div>
     </div>
