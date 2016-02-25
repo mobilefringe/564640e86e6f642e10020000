@@ -247,7 +247,7 @@ body{
 }
 .right_scrollable{
     height:100vh;
-    height:100vh;
+    position:absolute;
 }
 
 
