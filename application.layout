@@ -75,7 +75,10 @@
                 </div>
                 <div class="col-md-12">
                     <p class="footer_text">
-                        © 2016 Shop Central. All rights reserved. Contact Us
+                        © 2016 Shop Central. All rights reserved. 
+                        <a href="#">Privacy Policy</a>
+                        |
+                        <a href="#"></a>
                     </p>
                 </div>
             </div>
