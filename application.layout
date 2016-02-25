@@ -39,7 +39,14 @@
     <body id="page-top">
         <div id="main_header">
             <div class="main_container">
-                yo
+                <div class="row">
+                    <div class="col-md-4">
+                        
+                    </div>
+                    <div class="col-md-8">
+                        
+                    </div>
+                </div>
             </div>
         </div>
         <div id="main">
