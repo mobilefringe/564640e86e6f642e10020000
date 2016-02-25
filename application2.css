@@ -241,6 +241,11 @@ body{
     line-height: 40px;
 }
 
+.scrollable_row{
+    height:100vh;
+    position:relative;
+}
+
 .left_scrollable{
     height:100vh;
     position:absolute;
