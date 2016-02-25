@@ -244,6 +244,7 @@ body{
 .left_scrollable{
     height:100vh;
     position:absolute;
+    width:50%
 }
 .right_scrollable{
     height:100vh;
