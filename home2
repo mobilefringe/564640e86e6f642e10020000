@@ -20,7 +20,7 @@
                     <p class="work_desc">
                         You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
                     </p>
-                     <h3>Choose the center you would like to visit</h3>
+                     <h3 class="work_header">Choose the center</h3>
                     <p>
                         You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
                     </p>
