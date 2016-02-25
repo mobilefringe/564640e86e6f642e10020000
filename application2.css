@@ -251,6 +251,7 @@ body{
     position:absolute;
     width:50%;
     left:0;
+    top: 0;
 }
 .right_scrollable{
     height:100vh;
