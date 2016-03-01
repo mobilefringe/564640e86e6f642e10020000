@@ -275,6 +275,13 @@ body{
     max-width:1234px;
 }
 
+.iphon_banner{
+    position: absolute;
+    bottom: 0;
+    height: 650px;
+    left: calc((100% - 1140px) / 2);
+}
+
 
 
 
