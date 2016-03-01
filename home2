@@ -4,6 +4,7 @@
         <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456845710000/Banner_iPhone.png" class="iphone_banner" alt="iPhone banner">
         <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456845734000/Banner_Android.png" class="android_banner" alt="Android banner">
     </div>
+    <div class="clearfix"></div>
     <div class="hero_text">
         <p>
             The Shopping Experience that YOU Create!
