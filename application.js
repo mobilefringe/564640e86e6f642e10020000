@@ -23,6 +23,7 @@ $(document).ready(function(e){
     
     $('#toggle_menu').click(function(){
         $(this).toggleClass("fa-chevron-down fa-chevron-up");
+        $('.mobile_menu').slideDown();
     })
     
     $('#contact_form').submit(function(e){
