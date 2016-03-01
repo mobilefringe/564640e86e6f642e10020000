@@ -289,6 +289,13 @@ body{
     height: 650px;
 }
 
+.hero_text{
+    position: absolute;
+    top: calc(50% - 80px);
+    left: calc(50% - 215px);
+    width: 400px;
+}
+
 
 
 
