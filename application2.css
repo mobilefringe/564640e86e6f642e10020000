@@ -262,8 +262,10 @@ body{
 
 .hero_container{
     background: #19DDC5;
-    height:100vh;
-    min-height:600px;
+    height: calc(100vh - 81px);
+    min-height: 600px;
+    text-align: center;
+    padding: 20px 0;
 }
 
 
