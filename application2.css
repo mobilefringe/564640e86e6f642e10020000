@@ -260,6 +260,12 @@ body{
     left:50%;
 }
 
+.hero_container{
+    background: #19DDC5;
+    height:100vh;
+    min-height:600px;
+}
+
 
 
 
