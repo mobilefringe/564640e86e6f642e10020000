@@ -270,7 +270,7 @@ body{
 
 @media(min-width:940px){
     .tagline{
-        width:70%;
+        max-width:2468px;
     }
 }
 
