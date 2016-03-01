@@ -21,7 +21,7 @@ $(document).ready(function(e){
        }
     });
     
-    $('.toggle_menu').click(function(){
+    $('#toggle_menu').click(function(){
         $(this).toggleClass("fa-chevron-down fa-chevron-up");
     })
     
