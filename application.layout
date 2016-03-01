@@ -43,8 +43,8 @@
                     <div class="col-md-4 col-xs-10">
                         <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456261756000/logo.png" class="main_logo" alt="Main Logo">
                     </div>
-                    <div class="col-md-8 col-xs-8 hidden_phone">
-                        <div class="main_nav">
+                    <div class="col-md-8 col-xs-2">
+                        <div class="main_nav hidden_phone">
                             <a href="#">Why is there?</a>
                             <a href="#">How it works?</a>
                             <a href="#">Subscribe</a>
