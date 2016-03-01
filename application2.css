@@ -282,6 +282,13 @@ body{
     left: calc((100% - 1140px) / 2);
 }
 
+.android_banner{
+    bottom: 0;
+    position: absolute;
+    right: calc((100% - 1140px) / 2);
+    height: 650px;
+}
+
 
 
 
