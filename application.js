@@ -23,7 +23,15 @@ $(document).ready(function(e){
     
     $('#toggle_menu').click(function(){
         $(this).toggleClass("fa-chevron-down fa-chevron-up");
-        $('.mobile_menu').slideDown();
+        if $('.mobile_menu').hasClass("open"){
+            $('.mobile_menu').slideUp();    
+            $('.mobile_menu').removeClass("open");
+        }
+        else{
+            $('.mobile_menu').slideDown();
+            $('.mobile_menu').addClass("open");
+        }
+        
     })
     
     $('#contact_form').submit(function(e){
