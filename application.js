@@ -21,6 +21,10 @@ $(document).ready(function(e){
        }
     });
     
+    $('.toggle_menu').click(function(){
+        $(this).toggleClass("fa-chevron-down fa-chevron-up");
+    })
+    
     $('#contact_form').submit(function(e){
         e.preventDefault();
         data = {};
