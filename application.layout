@@ -53,7 +53,9 @@
                     </div>
                 </div>
                 <div class="mobile_menu">
-                    
+                    <a href="#">Why is there?</a>
+                    <a href="#">How it works?</a>
+                    <a href="#">Subscribe</a>
                 </div>
             </div>
         </div>
