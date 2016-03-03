@@ -60,7 +60,7 @@ function awesomeness(){
     $(window).scroll(function(){
         if($(document).scrollTop() >= $('.how_it_works').position().top && $(document).scrollTop() < $('.how_it_works').height()){
             $('.image_cover').addClass("fixed_image");
-            $('.image_cover').css("top", "166px")
+            $('.image_cover').css("top", "166px");
         } 
         else{
             $('.image_cover').removeClass("fixed_image");
