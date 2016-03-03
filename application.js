@@ -68,6 +68,7 @@ $(document).ready(function(e){
         } 
         else{
             $('.image_cover').removeClass("fixed_image");
+            $('#heading_works').removeClass("fixed_text");
         }
     });
 }
