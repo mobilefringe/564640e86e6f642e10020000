@@ -63,7 +63,7 @@ $(document).ready(function(e){
         if($(document).scrollTop() >= $('.how_it_works').position().top ){
             $('.image_cover').css("top", "166px");
             $('.image_cover').addClass("fixed_image");
-            $('.main_heading').addClass("fixed_heading");
+            $('.main_heading').addClass("fixed_text");
             
         } 
         else{
