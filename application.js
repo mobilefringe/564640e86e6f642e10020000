@@ -57,6 +57,19 @@ $(document).ready(function(e){
 });
 
 
+    
+    function awesomeness(){
+    $(window).scroll(function(){
+        if($(document).scrollTop() >= $('.how_it_works').position().top && $(document).scrollTop() < $('.how_it_works').height()){
+            $('.image_cover').css("top", "166px");
+            $('.image_cover').addClass("fixed_image");
+            
+        } 
+        else{
+            $('.image_cover').removeClass("fixed_image");
+        }
+    });
+}
 
 
 
