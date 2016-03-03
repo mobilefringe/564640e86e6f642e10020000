@@ -72,19 +72,17 @@
     })
     
     function awesomeness(){
-        var lastScrollTop = 0;
-        $(window).scroll(function(event){
-           var st = $(this).scrollTop();
-           if (st > lastScrollTop){
-                if($(document).scrollTop() >= $('.how_it_works').position().top){
-                    $('.image_cover').addClass("fixed_image");
-                }
-            } 
-           else {
-            //   $(document).scrollTop() < $('.how_it_works').height()
-           }
-           lastScrollTop = st;
-        });
+    $(window).scroll(function(){
+        if($(document).scrollTop() >= $('.how_it_works').position().top && $(document).scrollTop() < $('.how_it_works').height()){
+            $('.image_cover').css("top", "166px");
+            $('.image_cover').addClass("fixed_image");
+            
+        } 
+        else{
+            $('.image_cover').removeClass("fixed_image");
+        }
+    });
+}
 
     }
 </script>
