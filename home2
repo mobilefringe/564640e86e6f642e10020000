@@ -69,7 +69,7 @@
 <!--    </div>-->
 <!--</div>-->
 
-<div class="main_section">
+<div class="main_section" id="subscribe">
     <div class="main_container">
         <h2 class="main_heading">Subscribe & Get Updates</h2>
         <p class="desc text-center">Join us to stay in the know with your favourite shopping centers.</p>
