@@ -29,12 +29,14 @@
 <script>
     $(document).ready(function(){
         loadMallDataCached(renderPageData);
+        $('.map_container').show();
         $('#clear_pins').click(function(e){
             e.preventDefault();
             map.marksHide();
             $("#store_select_container").val($("#store_select_container option:first").val());
             map.setViewBox([0,0,4339, 5000]);
         })
+        
     });
     function drop_pin(id){
         map.marksHide();
