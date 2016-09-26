@@ -36,7 +36,6 @@
             }
         }]);
         map.setViewBox(id);
-        $('#btnZoomIn').click()
     }
 
     function init_map(reg){
