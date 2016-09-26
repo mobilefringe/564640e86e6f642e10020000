@@ -41,9 +41,6 @@
         $('#btnZoomIn').click()
         $('#btnZoomIn').click()
         $('#btnZoomIn').click()
-        $('#btnZoomIn').click()
-        $('#btnZoomIn').click()
-        $('#btnZoomIn').click()
     }
 
     function init_map(reg){
