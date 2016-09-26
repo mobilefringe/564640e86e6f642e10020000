@@ -13,6 +13,7 @@
                     <option value='{{svgmap_region}}'>{{name}}</option>
                 </script>
             </select>
+            <a href="#" id="clear_pins">Clear Pin</a>
         </div>
         <div class="clearfix"></div>
         <br />
