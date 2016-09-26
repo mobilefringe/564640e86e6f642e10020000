@@ -1,8 +1,8 @@
 <div class="hero_container">
     <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456845760000/Banner_text.png" class="tagline" alt="Tagline">
     <div class="main_container">    
-        <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456845710000/Banner_iPhone.png" class="iphone_banner" alt="iPhone banner">
-        <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456845734000/Banner_Android.png" class="android_banner" alt="Android banner">
+        <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1474905043000/Banner_iPhone.png" class="iphone_banner" alt="iPhone banner">
+        <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1474905015000/Banner_Android.png" class="android_banner" alt="Android banner">
     </div>
     <div class="clearfix"></div>
     <div class="hero_text">
