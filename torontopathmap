@@ -53,7 +53,7 @@
             panLimit:true,
             cursor:'pointer',
             responsive:true,
-            zoomLimit: [0,5]
+            zoomLimit: [0,10]
         });
         $('.loading_icon').hide()
     }
