@@ -47,7 +47,7 @@
                     obj["popover"] = "<p class='tooltip_name'>"+val.name+"</p>"
                 }
                 else{
-                    obj["tooltip"] = "<div class='tooltip_div'><img src='" + val.store_front_url_abs + "'><p class='tooltip_name text-center'>"+val.name+"</p></div>"
+                    obj["tooltip"] = "<div class='tooltip_div hidden_phone'><img src='" + val.store_front_url_abs + "'><p class='tooltip_name text-center'>"+val.name+"</p></div>"
                     obj["popover"] = "<div class='tooltip_div'><img src='" + val.store_front_url_abs + "'><p class='tooltip_name text-center'>"+val.name+"</p></div>"
                 }
                 obj["attr"] = {}
