@@ -33,6 +33,7 @@
             e.preventDefault();
             map.marksHide();
             $("#store_select_container").val($("#store_select_container option:first").val());
+            map.setViewBox([0,0,4339, 5000]);
         })
     });
     function drop_pin(id){
