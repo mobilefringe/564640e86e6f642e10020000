@@ -32,6 +32,7 @@
         $('#clear_pins').click(function(e){
             e.preventDefault();
             map.marksHide();
+            $("#store_select_container").val($("#target option:first").val());
         })
     });
     function drop_pin(id){
