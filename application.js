@@ -33,7 +33,6 @@ $(document).ready(function(e){
         }
         
     })
-    awesomeness();
     
     $('#contact_form').submit(function(e){
         e.preventDefault();
