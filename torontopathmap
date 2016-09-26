@@ -29,7 +29,7 @@
 <script>
     $(document).ready(function(){
         loadMallDataCached(renderPageData);
-        $('.map_container').show();
+        $('.map_container').css('visibility', 'visible');
         $('#clear_pins').click(function(e){
             e.preventDefault();
             map.marksHide();
