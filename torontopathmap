@@ -6,7 +6,7 @@
 <div class="map_container">
     <div class="main_container">
         <h4 class="map_heading">Toronto Path Map</h4>
-        <div id="mapsvg_store_detail"></div>
+        <div id="mapsvg_store_detail" style="background:#fff"></div>
     </div>
 </div>
 
