@@ -16,7 +16,7 @@
                         <option value='{{svgmap_region}}'>{{name}}</option>
                     </script>
                 </select>
-                <a href="#" id="clear_pins">Clear Pin</a>
+                <a href="#" id="clear_pins" class="newsletter_submit_btn">Clear Pin</a>
             </div>
         </div>
         <br />
