@@ -18,7 +18,7 @@
     function init_map(reg){
         map = $('#mapsvg_store_detail').mapSvg({
             source: getSVGMapURL(),    // Path to SVG map
-            colors: {stroke: '#aaa', hover: '#EF4D86'},
+            colors: {stroke: '#fff', hover: '#EF4D86'},
             disableAll: true,
             regions: reg,
             tooltipsMode:'custom',
