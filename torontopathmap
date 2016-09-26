@@ -7,6 +7,7 @@
     <div class="main_container">
         <h4 class="map_heading">Toronto Path Map</h4>
         <select id="store_select_container">
+            <option disabled>Select Store</option>
             <script id="store_select_template" type="x-tmpl-mustache/text">
                 <option value='{{svgmap_region}}'>{{name}}</option>
             </script>
