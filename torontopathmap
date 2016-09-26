@@ -20,8 +20,6 @@
             source: getSVGMapURL(),    // Path to SVG map
             colors: {stroke: '#aaa', hover: '#EF4D86'},
             disableAll: true,
-            height:800,
-            width:1140,
             regions: reg,
             tooltipsMode:'custom',
             loadingText: "loading...",
