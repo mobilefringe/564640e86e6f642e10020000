@@ -29,6 +29,10 @@
 <script>
     $(document).ready(function(){
         loadMallDataCached(renderPageData);
+        $('#clear_pins').click(function(e){
+            e.preventDefault();
+            map.marksHide();
+        })
     });
     function drop_pin(id){
         map.marksHide();
