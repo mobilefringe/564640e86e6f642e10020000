@@ -80,7 +80,7 @@
                     </div>
                     <div class="col-md-6 col-xs-6 text-right">
                         <a href="#">
-                            <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445068000/apple.png" class="download_app" alt="download from itunes store">
+                            <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445068000/apple.png" class="download_app download_app_mobile" alt="download from itunes store">
                         </a>
                     </div>
                     <div class="col-md-6 col-xs-6 text-left">
