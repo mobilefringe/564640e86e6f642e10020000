@@ -36,7 +36,8 @@
             }
         }]);
         map.setViewBox(id);
-        
+        map.selectRegion(id);
+        drop_pin(store_details.svgmap_region);
     }
 
     function init_map(reg){
