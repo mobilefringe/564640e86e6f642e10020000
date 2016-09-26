@@ -13,7 +13,6 @@
             </script>
         </select>
         <br />
-        <a href="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/application/pdf/1474919062000/TorontoPath_map-min.pdf" class="show_phone">View Map</a>
         <div id="mapsvg_store_detail" class="hidden_phone">
             <img src="http://kodekloud.s3.amazonaws.com/sites/554a79236e6f64713f000000/69e8cd982124dc73de1f5a67a627ee75/loading.gif" class="loading_icon" alt="loading icon">
         </div>
