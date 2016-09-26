@@ -9,17 +9,16 @@
             <div class="col-md-6">
                 <h4 class="map_heading">Toronto Path Map</h4>        
             </div>
-        
-        <div class="pull-right show_pins">
-            <select id="store_select_container" class="form-control hidden_phone pull-left" style="max-width:300px">
-                <option disabled selected>Select Store</option>
-                <script id="store_select_template" type="x-tmpl-mustache/text">
-                    <option value='{{svgmap_region}}'>{{name}}</option>
-                </script>
-            </select>
-            <a href="#" id="clear_pins">Clear Pin</a>
+            <div class="col-md-6 show_pins">
+                <select id="store_select_container" class="form-control hidden_phone pull-left" style="max-width:300px">
+                    <option disabled selected>Select Store</option>
+                    <script id="store_select_template" type="x-tmpl-mustache/text">
+                        <option value='{{svgmap_region}}'>{{name}}</option>
+                    </script>
+                </select>
+                <a href="#" id="clear_pins">Clear Pin</a>
+            </div>
         </div>
-        <div class="clearfix"></div>
         <br />
         <div id="mapsvg_store_detail" class="hidden_phone">
             <img src="http://kodekloud.s3.amazonaws.com/sites/554a79236e6f64713f000000/69e8cd982124dc73de1f5a67a627ee75/loading.gif" class="loading_icon" alt="loading icon">
