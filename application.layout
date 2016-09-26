@@ -54,12 +54,14 @@
                     <div class="col-md-8 col-xs-2 mobile_right">
                         <i class="fa fa-chevron-down show_phone" id="toggle_menu"></i>
                         <div class="main_nav hidden_phone">
+                            <a href="/torontopathmap">Toronto Path Map</a>
                             <a href="mailto:contact@mobilefringe.com">Contact Us</a>
                             <a href="/#subscribe">Subscribe</a>
                         </div>
                     </div>
                 </div>
                 <div class="mobile_menu">
+                    <a href="/torontopathmap">Toronto Path Map</a>
                     <a href="mailto:contact@mobilefringe.com">Contact Us</a>
                     <a href="/#subscribe">Subscribe</a>
                 </div>
