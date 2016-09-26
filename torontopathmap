@@ -41,9 +41,11 @@
                 obj = {};
                 if(val.store_front_url_abs.indexOf('missing.png') > -1){
                     obj["tooltip"] = "<div class='tooltip_div'><p class='tooltip_name text-center'>"+val.name+"</p></div>"
+                    obj["popover"] = "<p class='tooltip_name'>"+val.name+"</p>"
                 }
                 else{
                     obj["tooltip"] = "<div class='tooltip_div'><img src='" + val.store_front_url_abs + "'><p class='tooltip_name text-center'>"+val.name+"</p></div>"
+                    obj["popover"] = "<p class='tooltip_name'>"+val.name+"</p>"
                 }
                 obj["attr"] = {}
                 regions[val.svgmap_region] = obj
