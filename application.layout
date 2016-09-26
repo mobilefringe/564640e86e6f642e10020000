@@ -38,6 +38,10 @@
             ga('send', 'pageview');
             
         </script>
+        
+        <script>
+            setEndPoint('http://core.mallmaverick.com/api/v3/core/all.json');
+        </script>
     </head>
     <body id="page-top">
         <div id="main_header">
