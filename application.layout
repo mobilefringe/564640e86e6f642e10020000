@@ -55,7 +55,7 @@
                         <i class="fa fa-chevron-down show_phone" id="toggle_menu"></i>
                         <div class="main_nav hidden_phone">
                             <a href="mailto:contact@mobilefringe.com">Contact Us</a>
-                            <a href="/home#subscribe">Subscribe</a>
+                            <a href="/#subscribe">Subscribe</a>
                         </div>
                     </div>
                 </div>
