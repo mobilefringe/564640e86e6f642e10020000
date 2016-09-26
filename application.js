@@ -72,5 +72,9 @@ $(document).ready(function(e){
     });
 }
 
+function renderStoreList(container, template, collection){
+    
+}
+
 
 
