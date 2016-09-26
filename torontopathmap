@@ -32,6 +32,7 @@
             cursor:'pointer',
             responsive:true
         });
+        $('.loading_icon').hide()
     }
     
     function renderPageData(){
