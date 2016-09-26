@@ -23,7 +23,9 @@
     display:block;
 }
 
-
+.show_pins{
+    padding:10px 0;
+}
 
 #main_header{
     background:#19DDC5;
