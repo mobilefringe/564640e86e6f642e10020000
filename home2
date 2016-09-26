@@ -17,57 +17,57 @@
         </a>
     </div>
 </div>
-<div class="main_container">
-    <div class="main_section">
-        <h2 class="main_heading">Why is there porro quisquam est qui dolorem</h2>
-        <p class="desc text-center">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-        </p>
-    </div>
-</div>
+<!--<div class="main_container">-->
+<!--    <div class="main_section">-->
+<!--        <h2 class="main_heading">Why is there porro quisquam est qui dolorem</h2>-->
+<!--        <p class="desc text-center">-->
+<!--            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
+<!--        </p>-->
+<!--    </div>-->
+<!--</div>-->
 
-<div class="how_it_works">
-    <div class="main_container">
-        <h2 class="main_heading" id="heading_works">How Shop Central works?</h2>
-        <div class="row scrollable_row">
-            <div class="col-md-6 left_scrollable">
-                <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456417054000/phone_works.png" class="image_cover" alt="Cover">
-            </div>
-            <div class="col-md-6 right_scrollable">
-                <div>
-                    <h3 class="work_header">Choose the center you would like to visit</h3>
-                    <p class="work_desc">
-                        You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
-                    </p>
-                     <h3 class="work_header">Choose the center</h3>
-                    <p class="work_desc">
-                        You can always change the center you would like to visit.
-                    </p>
-                </div>
-                <div>
-                    <h3 class="work_header">Choose the center you would like to visit</h3>
-                    <p class="work_desc">
-                        You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
-                    </p>
-                     <h3 class="work_header">Choose the center</h3>
-                    <p class="work_desc">
-                        You can always change the center you would like to visit.
-                    </p>
-                </div>
-                <div>
-                    <h3 class="work_header">Choose the center you would like to visit</h3>
-                    <p class="work_desc">
-                        You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
-                    </p>
-                     <h3 class="work_header">Choose the center</h3>
-                    <p class="work_desc">
-                        You can always change the center you would like to visit.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<!--<div class="how_it_works">-->
+<!--    <div class="main_container">-->
+<!--        <h2 class="main_heading" id="heading_works">How Shop Central works?</h2>-->
+<!--        <div class="row scrollable_row">-->
+<!--            <div class="col-md-6 left_scrollable">-->
+<!--                <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1456417054000/phone_works.png" class="image_cover" alt="Cover">-->
+<!--            </div>-->
+<!--            <div class="col-md-6 right_scrollable">-->
+<!--                <div>-->
+<!--                    <h3 class="work_header">Choose the center you would like to visit</h3>-->
+<!--                    <p class="work_desc">-->
+<!--                        You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.-->
+<!--                    </p>-->
+<!--                     <h3 class="work_header">Choose the center</h3>-->
+<!--                    <p class="work_desc">-->
+<!--                        You can always change the center you would like to visit.-->
+<!--                    </p>-->
+<!--                </div>-->
+<!--                <div>-->
+<!--                    <h3 class="work_header">Choose the center you would like to visit</h3>-->
+<!--                    <p class="work_desc">-->
+<!--                        You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.-->
+<!--                    </p>-->
+<!--                     <h3 class="work_header">Choose the center</h3>-->
+<!--                    <p class="work_desc">-->
+<!--                        You can always change the center you would like to visit.-->
+<!--                    </p>-->
+<!--                </div>-->
+<!--                <div>-->
+<!--                    <h3 class="work_header">Choose the center you would like to visit</h3>-->
+<!--                    <p class="work_desc">-->
+<!--                        You can always change the center you would like to visit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.-->
+<!--                    </p>-->
+<!--                     <h3 class="work_header">Choose the center</h3>-->
+<!--                    <p class="work_desc">-->
+<!--                        You can always change the center you would like to visit.-->
+<!--                    </p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 
 <div class="main_section">
     <div class="main_container">
