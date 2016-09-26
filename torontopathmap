@@ -30,7 +30,7 @@
             }
         });
         renderStoreList('#stores_container','#stores_template', stores);
-        show_content();
+        
         var map = $('#mapsvg_store_detail').mapSvg({
             source: getSVGMapURL(),
             colors: {stroke: '#fff', selected: "#DCBB8D", hover: "#a6a6a6"},
