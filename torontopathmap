@@ -16,10 +16,7 @@
     });
     
     function init_map(reg){
-        map = $('#mapsvg').mapSvg({
-            source: getSVGMapURL(),    // Path to SVG map
-            
-        });
+        
     }
     
     function renderPageData(){
