@@ -52,13 +52,13 @@
             var id = $(this).attr('data-value')
             map_pin(id)
         })
+    }
         
-        function map_pin(value){
-            map.marksHide();
-            value = value.split('/')
-            if (value[0] != null){
-                drop_pin(value[0], map);    
-            }
+    function map_pin(value){
+        map.marksHide();
+        value = value.split('/')
+        if (value[0] != null){
+            drop_pin(value[0], map);    
         }
     }
 </script>
