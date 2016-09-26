@@ -38,14 +38,6 @@
         })
        
     }
-        
-    function map_pin(value){
-        map.marksHide();
-        value = value.split('/')
-        if (value[0] != null){
-            drop_pin(value[0], map);    
-        }
-    }
     
     function init_map(reg){
         map = $('#mapsvg').mapSvg({
