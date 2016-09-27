@@ -7,7 +7,13 @@
     <div class="main_container">
         <div class="row">
             <div class="col-md-12">
-                <h4 class="map_heading">Toronto Path Map</h4>        
+                <h4 class="map_heading">Toronto Path Map</h4> 
+                <p>
+                    We Love Downtown Toronto and the Toronto Path.  That is why we invested months to build our very own for all of Toronto to use.  Below is a sneak preview of the best Toronto Path Map ever made.  We have made it so easy to find out what stores are in the Path and how to get there.  The Toronto Path Map can be used on your mobile by downloading our Shop Central App - CLICK HERE.  (Add a logo of shop central).
+                </p>
+                <p>
+In the coming weeks we will be adding more amazing Toronto Path Map functionality for your Desktop and Mobile.  Including Toronto Path routing - find the best path from one store to another with directions.  Toronto Path Promotions and Events, and much more.  Download the app and stay tuned for more great Toronto Path map updates!
+                </p>
             </div>
             <div class="col-md-12 show_pins">
                 <select id="store_select_container" class="form-control hidden_phone pull-left" style="max-width:300px">
