@@ -20,8 +20,8 @@
 In the coming weeks we will be adding more amazing Toronto Path Map functionality for your Desktop and Mobile.  Including Toronto Path routing - find the best path from one store to another with directions.  Toronto Path Promotions and Events, and much more.  Download the app and stay tuned for more great Toronto Path map updates!
                 </p>
             </div>
-            <div class="col-md-12 show_pins">
-                <select id="store_select_container" class="form-control hidden_phone pull-left" style="max-width:300px">
+            <div class="col-md-12 show_pins hidden_phone">
+                <select id="store_select_container" class="form-control pull-left" style="max-width:300px">
                     <option disabled selected>Select Store</option>
                     <script id="store_select_template" type="x-tmpl-mustache/text">
                         <option value='{{svgmap_region}}'>{{name}}</option>
