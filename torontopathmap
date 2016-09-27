@@ -86,7 +86,6 @@ In the coming weeks we will be adding more amazing Toronto Path Map functionalit
             responsive:true,
             zoomLimit: [0,10]
         });
-        $('.loading_icon').hide()
     }
     
     function renderPageData(){
@@ -113,6 +112,7 @@ In the coming weeks we will be adding more amazing Toronto Path Map functionalit
         if(detectmob() == false){
             init_map(regions)
         }
+        $('.loading_icon').hide()
     }
     
     function detectmob() { 
