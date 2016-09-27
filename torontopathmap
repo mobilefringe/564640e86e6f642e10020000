@@ -90,26 +90,27 @@ In the coming weeks we will be adding more amazing Toronto Path Map functionalit
     }
     
     function renderPageData(){
-        if(detectmob() == false){
-            var stores = getStoresList();
-            renderStoreList('#store_select_container','#store_select_template', stores);
-            regions = {};
-            $.each( stores , function( key, val ) {
-                if(val.svgmap_region != null && typeof(val.svgmap_region)  != 'undefined'){
-                    obj = {};
-                    if(val.store_front_url_abs.indexOf('missing.png') > -1){
-                        obj["tooltip"] = "<div class='tooltip_div hidden_phone'><p class='tooltip_name text-center'>"+val.name+"</p></div>"
-                    }
-                    else{
-                        obj["tooltip"] = "<div class='tooltip_div hidden_phone'><img src='" + val.store_front_url_abs + "'><p class='tooltip_name text-center'>"+val.name+"</p></div>"
-                    }
-                    obj["attr"] = {}
-                    regions[val.svgmap_region] = obj
+        
+        var stores = getStoresList();
+        renderStoreList('#store_select_container','#store_select_template', stores);
+        regions = {};
+        $.each( stores , function( key, val ) {
+            if(val.svgmap_region != null && typeof(val.svgmap_region)  != 'undefined'){
+                obj = {};
+                if(val.store_front_url_abs.indexOf('missing.png') > -1){
+                    obj["tooltip"] = "<div class='tooltip_div hidden_phone'><p class='tooltip_name text-center'>"+val.name+"</p></div>"
                 }
-            });
-            $('#store_select_container').change(function(e){
-                drop_pin($(this).val())
-            })
+                else{
+                    obj["tooltip"] = "<div class='tooltip_div hidden_phone'><img src='" + val.store_front_url_abs + "'><p class='tooltip_name text-center'>"+val.name+"</p></div>"
+                }
+                obj["attr"] = {}
+                regions[val.svgmap_region] = obj
+            }
+        });
+        $('#store_select_container').change(function(e){
+            drop_pin($(this).val())
+        })
+        if(detectmob() == false){
             init_map(regions)
         }
     }
