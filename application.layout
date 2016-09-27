@@ -92,7 +92,7 @@
                     <div class="col-md-12">
                         <p class="footer_text">
                             © 2016 Shop Central. All rights reserved. <br class="show_phone" />
-                            <a href="#">Privacy Policy</a> | <a href="#">Terms & Conditions</a>
+                            <a href="/privacy-policy">Privacy Policy</a> | <a href="#">Terms & Conditions</a>
                         </p>
                         <p class="footer_text">
                             Powered by <a target="_blank" href="//mallmaverick.com">Mall Maverick</a>
