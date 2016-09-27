@@ -90,7 +90,7 @@ In the coming weeks we will be adding more amazing Toronto Path Map functionalit
     }
     
     function renderPageData(){
-        if(detectmob == false){
+        if(detectmob() == false){
             var stores = getStoresList();
             renderStoreList('#store_select_container','#store_select_template', stores);
             regions = {};
