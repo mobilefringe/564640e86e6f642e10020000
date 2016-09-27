@@ -2,7 +2,6 @@
 <script type="text/javascript" src="http://cdn.mallmaverick.com/javascripts/mapsvg/raphael.js"></script>
 <script type="text/javascript" src="http://cdn.mallmaverick.com/javascripts/mapsvg/jquery.mousewheel.js"></script>
 <script type="text/javascript" src="http://cdn.mallmaverick.com/system/site_images/photos/000/005/107/original/mallmaverick_svgmap.js?1412885524"></script>
-<img src="http://kodekloud.s3.amazonaws.com/sites/554a79236e6f64713f000000/69e8cd982124dc73de1f5a67a627ee75/loading.gif" class="loading_icon" alt="loading icon" />
 <div class="map_container">
     <div class="main_container">
         <div class="row">
@@ -34,6 +33,7 @@ In the coming weeks we will be adding more amazing Toronto Path Map functionalit
             </div>
         </div>
         <br />
+        <img src="http://kodekloud.s3.amazonaws.com/sites/554a79236e6f64713f000000/69e8cd982124dc73de1f5a67a627ee75/loading.gif" class="loading_icon" alt="loading icon" />
         <div id="mapsvg_store_detail" class="hidden_phone"></div>
     </div>
 </div>
