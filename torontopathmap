@@ -66,6 +66,7 @@ In the coming weeks we will be adding more amazing Toronto Path Map functionalit
         $('#btnZoomIn').click()
         $('#btnZoomIn').click()
         $('#btnZoomIn').click()
+        $('#btnZoomIn').click()
     }
 
     function init_map(reg){
