@@ -15,6 +15,9 @@
                     <a href="#">
                         <img src="http://assets.codecloudapp.com/sites/56ccc5a66e6f646cdd000000/image/png/1447445068000/apple.png" class="download_app margin_10_inline" alt="">
                     </a>
+                    <a href="#" class="newsletter_submit_btn">
+                        View Map
+                    </a>
                 </p>
                 <p>
 In the coming weeks we will be adding more amazing Toronto Path Map functionality for your Desktop and Mobile.  Including Toronto Path routing - find the best path from one store to another with directions.  Toronto Path Promotions and Events, and much more.  Download the app and stay tuned for more great Toronto Path map updates!
@@ -87,6 +90,7 @@ In the coming weeks we will be adding more amazing Toronto Path Map functionalit
     }
     
     function renderPageData(){
+        
         var stores = getStoresList();
         renderStoreList('#store_select_container','#store_select_template', stores);
         regions = {};
