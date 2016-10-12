@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{{meta_title}}</title>
+        <link rel="shortcut icon" href="//codecloud.cdn.speedyrails.net/sites/57fe48f16e6f64296f010000/image/png/1447698011000/SC_fav.png" />
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{meta_description}}">
+        <meta name="keywords" content="{{meta_keywords}}">
+        <meta name="author" content="">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+        <link href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.min.css" rel="stylesheet">
+        
+        <link href="../application2.css" rel="stylesheet">
+        
+        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
+        <script src="../application.js"></script>
+        
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <script src="//preview-mallmaverick.codecloudapp.com/mallmaverick_v3.js"></script>
+        
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+            ga('create', 'UA-69999642-1', 'auto');
+            ga('send', 'pageview');
+            
+        </script>
+        
+        <script>
+            setEndPoint('//torontopath.mallmaverick.com/api/v2/torontopath/all.json');
+        </script>
+    </head>
+    <body id="page-top">
+        <div id="main_header">
+            <div class="main_container">
+                <div class="row header_nav">
+                    <div class="col-md-4 col-xs-10">
+                        <a href="/"><img src="//codecloud.cdn.speedyrails.net/sites/57fe48f16e6f64296f010000/image/png/1456261756000/logo.png" class="main_logo" alt="Main Logo"></a>
+                    </div>
+                    <div class="col-md-8 col-xs-2 mobile_right">
+                        <i class="fa fa-chevron-down show_phone" id="toggle_menu"></i>
+                        <div class="main_nav hidden_phone">
+                            <a href="/torontopathmap">Toronto Path Map</a>
+                            <a href="mailto:contact@mobilefringe.com">Contact Us</a>
+                            <a href="/#subscribe">Subscribe</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="mobile_menu">
+                    <a href="/torontopathmap">Toronto Path Map</a>
+                    <a href="mailto:contact@mobilefringe.com">Contact Us</a>
+                    <a href="/#subscribe">Subscribe</a>
+                </div>
+            </div>
+        </div>
+        <div id="main">
+            {{yield}}
+        </div>
+        <div id="main_footer">
+            <div class="main_container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <a href="/">
+                            <img src="//codecloud.cdn.speedyrails.net/sites/57fe48f16e6f64296f010000/image/png/1456418855000/footer_logo.png" class="footer_logo" alt="Logo">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-xs-6 text-right">
+                        <a href="https://itunes.apple.com/ca/app/shop-central/id1055167722?mt=8" target="_blank">
+                            <img src="//codecloud.cdn.speedyrails.net/sites/57fe48f16e6f64296f010000/image/png/1447445068000/apple.png" class="download_app download_app_mobile" alt="download from itunes store">
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-xs-6 text-left">
+                        <a href="https://play.google.com/store/apps/details?id=com.mobilefringe.shopcentral&hl=en" target="_blank">
+                            <img src="//codecloud.cdn.speedyrails.net/sites/57fe48f16e6f64296f010000/image/png/1447445079000/google_play.png" class="download_app download_app_mobile" alt="download from play store">
+                        </a>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="col-md-12">
+                        <p class="footer_text">
+                            © 2016 Shop Central. All rights reserved. <br class="show_phone" />
+                            <a href="/privacy-policy">Privacy Policy</a>
+                        </p>
+                        <p class="footer_text">
+                            Powered by <a target="_blank" href="//mallmaverick.com">Mall Maverick</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
